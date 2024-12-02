@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from statsmodels.stats.multitest import multipletests
 
 # Path for results
-RESULTS_PATH = 'C:/Users/Laura/Desktop/Praktikum/results'
+RESULTS_PATH = 'C:/Users/results'
 
 # ======================================
 # I Helper Functions
