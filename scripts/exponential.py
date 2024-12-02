@@ -8,7 +8,7 @@ import os
 import aaanalysis as aa
 
 # path for savin the results
-RESULTS_PATH = 'C:/Users/Laura/Desktop/Praktikum/results'
+RESULTS_PATH = 'C:/Users/results'
 LAM = 0.5
 SIZE = 1000
 
