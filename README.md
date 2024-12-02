@@ -17,7 +17,7 @@ The Benjamini-Hochberg method is a widely used technique in statistical hypothes
 
 ## 🤝 Acknowledgments
 
-Special thanks to our supervisor for their contributions to the project and the accompanying report and the research group. 
+Special thanks to our supervisor for their contributions to the project and the accompanying report and the research group for this opportunity. 
 
 For questions, feel free to reach out or open an issue.
 ---
