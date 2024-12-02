@@ -9,9 +9,9 @@ import os
 import aaanalysis as aa
 
 # File path and sheet name
-RESULTS_PATH = 'C:/Users/Laura/Desktop/Praktikum/results' # Path in which the figures are saved
+RESULTS_PATH =  "C:/Users/Path in which the figures are saved"
 
-file_path = "C:/Users/Laura/Documents/Uni/Master/Forschungspraktikum Bioinformatik/omics_data/test.xlsx"
+file_path = "C:/Users/test.xlsx"
 file = "test" # name of the file
 distribution_filename = 'test_distribution'
 sheet_name = "Sheet1"
@@ -101,7 +101,7 @@ def plot_histogram(df, column_name, dataset_name, distributionname):
     plt.xlabel(column_name)
     plt.ylabel('Frequency')
     plt.grid(True)
-    save_path = os.path.join('C:/Users/Laura/Desktop/Praktikum/results', f"{distributionname}.png")
+    save_path = os.path.join('C:/Users/results', f"{distributionname}.png")
     plt.savefig(save_path)
     plt.show()
     plt.close()
