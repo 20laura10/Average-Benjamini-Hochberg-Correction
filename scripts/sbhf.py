@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 x = 20
 
 # Path for results
-RESULTS_PATH = 'C:/Users/Laura/Desktop/Praktikum/results'
+RESULTS_PATH = 'C:/Users/results'
 
 # ======================================
 # I Helper Functions
