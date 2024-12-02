@@ -4,7 +4,7 @@
 import numpy as np
 import config as cfg
 
-RESULT_PATH = "C:/Users/Laura/Desktop/Praktikum/results"
+RESULT_PATH = "C:/Users/results"
 
 # ======================================
 # I Helper Functions
