@@ -15,5 +15,9 @@ The Benjamini-Hochberg method is a widely used technique in statistical hypothes
 - Implement the Average BH correction in Python.
 - Analyze the performance of the method on simulated datasets and real world omics datasets.
 - Provide reproducible code for educational and research purposes.
+- 
+## 🤝 Acknowledgments
+Special thanks to our supervisor for their contributions to the project and the accompanying report and the research group. 
 
+For questions, feel free to reach out or open an issue.
 ---
